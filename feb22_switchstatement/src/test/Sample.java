@@ -5,7 +5,7 @@ public class Sample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int x=8;
+		int x=4;
 		switch(x)
 		{
 		case 1:
