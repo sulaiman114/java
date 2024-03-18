@@ -16,7 +16,8 @@ public class SampleA {
 		
 		//Select dropDownSkill= new Select(driver.findElement(By.xpath("//select[@id='Skills']")));
 		//dropDownSkill.selectByIndex(6);
-		driver.manage().window().minimize();		
+		driver.manage().window().minimize();	
+		
 	}
 	
 
